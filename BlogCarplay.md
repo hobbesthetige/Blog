@@ -5,6 +5,8 @@ When the Avenue app first launched in 2019, its primary purpose was to be a rout
 
 By connecting our app to Carplay, we have the advantage of showing all of your stops in a list overlayed on a map. Tapping on each stop provides the stop details pulled from your CRM/ERM, and we have two easy "Navigate" and "Complete Stop" buttons that make it super easy to kick off driving directions and mark a stop as complete.
 
+![Carplay image](AvenueCarplay.jpg)
+
 ### Getting Started ###
 
 We didn't expect to have to *apply* to Apple for a Carplay entitlement, but they responded within two business days and approved our request to add Carplay capabilities to the Avenue App. Getting the entitlement added was easy, but making the adjustments to the XCode project felt a little rough around the edges from Apple's documentation. Suffice it to say that documentation and user guides are in the infant stages for Apple as well. 
