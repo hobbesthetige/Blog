@@ -2,7 +2,7 @@
     "posts": [
         {
             "title": "Implementing Carplay in the Avenue app",
-            "subttile": "Challenges and rewards along the way.",
+            "subtitle": "Challenges and rewards along the way.",
             "published": "Written October 2022",
             "url": "https://hobbesthetige.github.io/Blog/Carplay/BlogCarplay.md",
             "coverImage": "https://hobbesthetige.github.io/Blog/Carplay/Cover.png"
