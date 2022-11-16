@@ -7,6 +7,7 @@ When the Avenue app first launched in 2019, its primary purpose was to be a rout
 By connecting our app to Carplay, we have the advantage of showing all of your stops in a list overlayed on a map. Tapping on each stop provides the stop details pulled from your CRM/ERM, and we have two easy "Navigate" and "Complete Stop" buttons that make it super easy to kick off driving directions and mark a stop as complete.
 
 ![Carplay image](AvenueCarplay.jpg)
+<style> img[alt="Carplay image"] {border-radius: 30px; width: 100% ; height: 300 ; margin-left: auto ; margin-right: auto } </style>
 
 ### Getting Started ###
 
