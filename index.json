@@ -1,5 +1,5 @@
 {
-    posts: [
+    "posts": [
         {
             "title": "Implementing Carplay in the Avenue app",
             "subttile": "Challenges and rewards along the way.",
