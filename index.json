@@ -1,6 +1,13 @@
 {
     "posts": [
         {
+            "title": "Building a Blog",
+            "subtitle": "Creating a blog service that compliments a native mobile experience.",
+            "published": "Written November 2022",
+            "url": "https://hobbesthetige.github.io/Blog/Blogging/BlogBlogging.md",
+            "coverImage": "https://hobbesthetige.github.io/Blog/Blogging/Cover.jpg"
+        },
+        {
             "title": "Implementing Carplay in the Avenue app",
             "subtitle": "Challenges and rewards along the way.",
             "published": "Written October 2022",
