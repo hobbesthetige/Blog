@@ -13,6 +13,13 @@
             "published": "Written October 2022",
             "url": "https://hobbesthetige.github.io/Blog/Carplay/BlogCarplay.md",
             "coverImage": "https://hobbesthetige.github.io/Blog/Carplay/Cover.png"
+        },
+        {
+            "title": "Creating a Private VPN",
+            "subtitle": "Step-by-step instructions for setting up WireGuard.",
+            "published": "Written November 2022",
+            "url": "https://hobbesthetige.github.io/Blog/WireGuard/BlogWireGuard.md",
+            "coverImage": "https://hobbesthetige.github.io/Blog/WireGuard/Cover.png"
         }
     ]
 }
